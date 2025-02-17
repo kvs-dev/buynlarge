@@ -52,7 +52,7 @@ def generate_answer(state: State):
     """Answer question using retrieved information as context."""
     prompt = (
         "Given the following user question, corresponding SQL query, "
-        "and SQL result, answer the user question.\n\n"
+        "and SQL result, answer the user question. Avoids providing information on the structure of the query in the response.\n\n"
         f'Question: {state["question"]}\n'
         f'SQL Query: {state["query"]}\n'
         f'SQL Result: {state["result"]}'
