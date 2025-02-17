@@ -114,7 +114,6 @@ El frontend estará disponible en `http://localhost:5173`
 
 ## Características Principales
 
-- Dashboard con estadísticas de la tienda
 - Asistente virtual con LangChain y Groq
 - Interfaz de chat para comunicarse con el asistente
 - Sistema de gestión de productos y órdenes
