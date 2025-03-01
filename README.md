@@ -2,10 +2,6 @@
 
 Este proyecto consiste en una API para una tienda en línea con un asistente virtual integrado usando LangChain y Groq. El proyecto está dividido en dos partes: backend (Django) y frontend (React + TypeScript).
 
-
-https://github.com/user-attachments/assets/31273c74-9e2a-4218-9be1-ee6adaded358
-
-
 ## Requisitos Previos
 
 - Python 3.10 o superior
